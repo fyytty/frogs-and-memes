@@ -14,6 +14,8 @@
 
 <body>
     
+<?php include 'nav.php'; ?>
+
 <div class="container">
 
 <h1>My CRUD Guide</h1>
